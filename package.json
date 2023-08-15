@@ -1,15 +1,15 @@
 {
-  "name": "ignite-cli",
-  "version": "8.8.7",
-  "description": "Infinite Red's hottest boilerplate for React Native.",
+  "name": "@teopeurt/redux-ignite-cli",
+  "version": "0.0.1",
+  "description": "Infinite Red's hottest boilerplate for React Native (with Redux)",
   "bin": {
     "ignite": "bin/ignite",
     "ignite-cli": "bin/ignite"
   },
   "preferGlobal": true,
   "license": "MIT",
-  "repository": "infinitered/ignite",
-  "homepage": "https://github.com/infinitered/ignite",
+  "repository": "https://github.com/teopeurt/redux-ignite.git",
+  "homepage": "https://github.com/teoeurt/redux-ignite",
   "files": [
     "boilerplate",
     "build",
@@ -18,9 +18,9 @@
     "template.config.js"
   ],
   "author": {
-    "name": "Infinite Red",
-    "email": "npm@infinite.red",
-    "url": "https://github.com/infinitered/ignite"
+    "name": "Infinite Red (teopeur)",
+    "email": "npm@teopeurt.com",
+    "url": "https://github.com/teopeurt/redux-ignite"
   },
   "scripts": {
     "compile": "tsc -p .",
